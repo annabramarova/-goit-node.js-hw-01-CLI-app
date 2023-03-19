@@ -1,5 +1,5 @@
 const fs = require('fs').promises;
-import { nanoid } from 'nanoid'
+const { nanoid } = require('nanoid');
 const path = require('path');
 require('colors');
 
