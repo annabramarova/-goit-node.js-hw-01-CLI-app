@@ -1,0 +1,22 @@
+{
+  "name": "-goit-node.js-hw-01-cli-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annabramarova/-goit-node.js-hw-01-CLI-app.git"
+  },
+   "keywords": [
+    "[]"
+  ],
+  "author": "Hanna",
+  "license": "ISC",
+  "homepage": "https://github.com/DariaOskaOssowska/goit-node.js-hw-01-CLI-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
